@@ -1,3 +1,13 @@
+## [2.1.1](https://github.com/jakubolszynka/test/compare/v2.1.0...v2.1.1) (2025-03-05)
+
+
+### Bug Fixes
+
+* **ci:** test fix message ([14ab3eb](https://github.com/jakubolszynka/test/commit/14ab3eb2876af241c88578975a0b5b8fd0db8a0b))
+* **ci:** test fix message1 ([0036fb9](https://github.com/jakubolszynka/test/commit/0036fb91091ce85aa5512df0b56d39f546707c37))
+* **ci:** test fix message2 ([9b80fe7](https://github.com/jakubolszynka/test/commit/9b80fe70903524bf812ebdc495a43a4549465502))
+* **ci:** test fix message3 ([6a63faa](https://github.com/jakubolszynka/test/commit/6a63faa825a94c628d4806c2a2a292f23849a88a))
+
 # [2.1.0](https://github.com/jakubolszynka/test/compare/v2.0.0...v2.1.0) (2025-03-05)
 
 
